@@ -1,5 +1,5 @@
 
-## Qwen3-ASR OpenVINO clean room
+## Qwen3-ASR OpenVINO
 
 This repository contains an OpenVINO implementation of Qwen3-ASR that I built on top of [antirez/qwen-asr](https://github.com/antirez/qwen-asr/blob/main/python_simple_implementation.py), which I found by accident while poking through Deepwiki in February 2026. `qwen3_asr_utils.py`was adapted from [utils.py](https://github.com/QwenLM/Qwen3-ASR/blob/main/qwen_asr/inference/utils.py) in the offical Qwen repo. This implemention is was signifigantly upgraded and is now deployed in [OpenArc](https://github.com/SearchSavior/OpenArc).
 
