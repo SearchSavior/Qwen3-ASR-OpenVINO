@@ -11,7 +11,7 @@ Claude Code with Opus 4.6 was used to develop this code, which was an adventure.
 
 ## Original Notebook
 
-Most of the really deep lore if OpenVINO is obfuscated by horrendous documentation around the engineering practices in the actual repositories. So, a goal of this project is to spell out exactly what it looks like to throw away `transformers`, and reimplement an openvino IR from scratch.
+Most of the really OpenVINO lore is obfuscated by horrendous documentation around the engineering practices in the actual repositories. So, a goal of this project is to spell out exactly what it looks like to throw away `transformers`, and reimplement an openvino IR from scratch.
 
 I drew  inspiration from the OpenVINO Notebooks approach to subgraph structure and stateful execution. Only Qwen3-ASR-0.6B has been validated. There were many other design decisions along the way, and I wish I had taken better notes.
 
